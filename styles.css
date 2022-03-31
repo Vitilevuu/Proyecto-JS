@@ -5,6 +5,8 @@
     height: 7px;
 }
 
+
+
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
@@ -19,4 +21,23 @@
 
 .nav-link{
     color: aquamarine;
+}
+
+
+.contact-back{
+    background-image: url(img/background-contacto.png);
+    color: white;
+    height: 580px;
+    background-position: bottom;
+}
+
+.contacto-label{
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.back-tienda{
+    background-image: url(img/back-tienda.png);
+    height: auto;
+    background-position: bottom;
 }
